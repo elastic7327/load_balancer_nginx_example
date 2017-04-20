@@ -1,4 +1,3 @@
-# Load_balancer_nginx_example
 			
 
 			   O   <-- Proxy_Server (말이 프록시지 졷도없음 그냥 우분투에 엔진엑스 하나 다운받아놈)
